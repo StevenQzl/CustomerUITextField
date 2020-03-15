@@ -1,0 +1,2 @@
+# CustomerUITextField
+自定义UITextField输入错误内容时边框颜色闪动
